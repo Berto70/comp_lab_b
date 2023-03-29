@@ -1,0 +1,2 @@
+# mini: 500, opt: vanilla, epochs:  100, beta: 0.9, CD-n: 1
+# 
